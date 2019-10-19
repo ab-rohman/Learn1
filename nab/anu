@@ -1,0 +1,5 @@
+public class anu{
+    public static void main (String args[]){
+        system.out.println("y");
+    }
+}
